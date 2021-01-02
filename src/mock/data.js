@@ -43,7 +43,7 @@ export const projectsData = [
     img: 'project-2.jpg',
     title: 'Global Wildfire Analysis',
     info:
-      'Using Explanatory Data Analysis and Machine Learning techniques to analyze and wildfire trends globally.',
+      'Using Explanatory Data Analysis and Machine Learning techniques to analyze wildfire trends globally.',
     info2: '',
     url: 'https://github.com/sydneypun/cs105-prj-phase3-potato',
     repo: 'https://github.com/sydneypun/cs105-prj-phase3-potato', // if no repo, the button will not show up
